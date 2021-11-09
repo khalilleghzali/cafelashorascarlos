@@ -1,0 +1,20 @@
+<html>
+<head>
+<meta charset="UTF-8" />
+<link rel="stylesheet" href="style.css" />
+
+<title>Cafetería Las Horas</title>
+</head>
+<body class="background_brown">
+	<h1 class="brown_center">Cafeteria las horas</h1>
+		
+
+	<img src="./menu.png">
+
+</body>
+
+<hr>
+
+
+
+</html>

@@ -1,0 +1,24 @@
+.brown_center {
+	
+	text-align: center;
+	color: brown;
+	
+}
+
+.background_brown {
+	
+	background-color: #fdddca;
+	
+}
+
+.p_red {
+	
+	color: red;
+	
+}
+
+.p_brown{
+	color: brown;
+}
+
+

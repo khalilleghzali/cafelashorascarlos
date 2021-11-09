@@ -1,0 +1,22 @@
+<html>
+<head>
+<meta charset="UTF-8" />
+<link rel="stylesheet" href="style.css" />
+
+<title>Cafetería Las Horas</title>
+</head>
+<body class="background_brown">
+	<h1 class="brown_center">Cafeteria las horas</h1>
+		
+
+	<a class="p_brown" href=./lacarta.html>La carta<img align="bottom" src="./img/Carta.jpg" width=125 height=100></a>
+
+	<div align="center"><a class="p_brown" href=./elcofe.html>El café<img align="bottom" src="./img/cafe.jpg" width=125 height=100></a></div>
+	
+</body>
+
+<hr>
+
+
+
+</html>
